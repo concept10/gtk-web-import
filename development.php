@@ -50,7 +50,8 @@ $maintainers = array(
 	array("Tristan Van Berkom",      "Codethink"),
 	array("Carlos Garnacho",         "Red Hat"),
 	array("Allison Lortie",          "Canonical"),
-	array("Emmanuele Bassi",         "GNOME Foundation")
+	array("Emmanuele Bassi",         "GNOME Foundation"),
+        array("Philip Withnall",         "Endless")
 );
 ?>
 
