@@ -49,7 +49,7 @@ $maintainers = array(
 	array("Alexander Larsson",       "Red Hat"),
 	array("Tristan Van Berkom",      "Codethink"),
 	array("Carlos Garnacho",         "Red Hat"),
-	array("Allison Lortie",          "Canonical"),
+	array("Allison Karlitskaya",     "Red Hat"),
 	array("Emmanuele Bassi",         "GNOME Foundation"),
         array("Philip Withnall",         "Endless")
 );
