@@ -44,7 +44,7 @@ ob_start();
 $maintainers = array(
 	  /* ("Name",                    "Affiliation"), */
 	array("Matthias Clasen",         "Red Hat"),
-	array("Behdad Esfahbod",         "Google"),
+	array("Behdad Esfahbod",         "Facebook"),
 	array("Benjamin Otte",           "Red Hat"),
 	array("Alexander Larsson",       "Red Hat"),
 	array("Tristan Van Berkom",      "Codethink"),
