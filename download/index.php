@@ -18,7 +18,7 @@ ob_start();
 
 	<div class="right">
 		<h2 id="UnstableRelease">Unstable releases</h2>
-		<p>The latest unstable tarballs can be downloaded from <a href="http://download.gnome.org/sources/gtk+/" class="external">download.gnome.org</a>.</p>
+		<p>The latest unstable tarballs can be downloaded from <a href="http://download.gnome.org/sources/gtk+/" class="external">download.gnome.org</a> (or, more recently <a href="http://download.gnome.org/sources/gtk/" class="external">download.gnome.org</a>).</p>
 	</div>
 
 </div>
